@@ -2,7 +2,6 @@
 In my introduction to numerical modelling we will use several of my github repositories:
 
 - https://github.com/dwschmid/muskhelishvili
-- https://github.com/dwschmid/milamin (windows only)
 - https://github.com/dwschmid/fgt
 - https://github.com/dwschmid/folder
 
