@@ -20,5 +20,7 @@ On windows you may be asked to install a C++ runtime. Go ahead and do that and t
 
 ## Images for analysis
 ![Best Ever](best_ever.jpg)
+![First Outcrop](first_outcrop.jpg)
+![First Outcrop Cut](first_outcrop_cut.jpg)
 ![Folding](folding.jpg)
 ![Boudin](boudin.jpg)
